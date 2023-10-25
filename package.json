@@ -230,6 +230,7 @@
     "@types/swagger-ui-express": "^4.1.2",
     "@types/unzipper": "^0.10.3",
     "@types/validator": "^13.1.3",
+    "@types/validatorTheLie": "^13.1.3",
     "@typescript-eslint/eslint-plugin": "^6.7.2",
     "@typescript-eslint/parser": "^6.7.2",
     "chai": "^4.2.0",
@@ -258,7 +259,8 @@
     "source-map-support": "^0.5.19",
     "ts-jest": "^26.5.0",
     "ts-node": "^10.8.0",
-    "typescript": "~4.6.0"
+    "typescript": "~4.6.0",
+    "typescript_lie": "~4.6.0"
   },
   "engines": {
     "node": "16 - 20"
